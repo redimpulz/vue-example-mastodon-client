@@ -12,6 +12,7 @@
     "serve:electron": "vue-cli-service serve:electron"
   },
   "dependencies": {
+    "element-ui": "^2.4.6",
     "mastodon": "^1.2.2",
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.17",
